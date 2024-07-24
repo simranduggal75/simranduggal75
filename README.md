@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranduggal75&label=Profile%20views&color=0e75b6&style=flat" alt="simranduggal75" /> </p>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **python, SQL projects**
 
-- 🌱 I’m currently learning **python, machine learning**
+- 🌱 I’m currently learning **python,SQL, machine learning**
 
 - 💬 Ask me about **python, Machine learning, data science ,HTML ,CSS ,JavaScript ,PHP , Bootstrap , Tableau , MYSQL, t,**
 
