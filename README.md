@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python,SQL, machine learning**
 
-- 💬 Ask me about **python, Machine learning, data science ,HTML ,CSS ,JavaScript ,PHP , Bootstrap , Tableau , MYSQL, t,**
+- 💬 Ask me about **python, Machine learning, data science ,HTML ,CSS ,JavaScript ,PHP , Bootstrap , Tableau , MYSQL.
 
 - 📫 How to reach me **simranduggal75@gmail.com**
 
