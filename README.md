@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranduggal75&label=Profile%20views&color=0e75b6&style=flat" alt="simranduggal75" /> </p>
 
-- 🔭 I’m currently working on **Java, SQL projects**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Java, DSA**
-
-- 💬 Ask me about **python, Machine learning, data science ,HTML ,CSS ,JavaScript ,PHP , Bootstrap , Tableau , MYSQL.
+- 💬 Ask me about **Java,Spring Boot and JPA , RESTful APIs and microservices ,API Development & Integration ,HTML, CSS, and JavaScript , Postman and GitHub ,Object-oriented programming ,SOLID principles and design patterns.
 
 - 📫 How to reach me **simranduggal75@gmail.com**
 
