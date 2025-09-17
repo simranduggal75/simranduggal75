@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranduggal75&label=Profile%20views&color=0e75b6&style=flat" alt="simranduggal75" /> </p>
 
-- 🔭 I’m currently working on **Python, full stack**
+- 🔭 I’m currently working on **Python,Machine Learning,full stack**
 
-- 💬 Ask me about **Java,Spring Boot and JPA , RESTful APIs and microservices ,API Development & Integration ,HTML, CSS, and JavaScript , Postman and GitHub ,Object-oriented programming ,SOLID principles and design patterns.
+- 💬 Ask me about **Python, Data Science, Machine Learning (Scikit-learn, Pandas, NumPy, Flask),Java, Spring Boot, JPA,RESTful APIs & Microservices ,API Development & Integration,React.js, Next.js, HTML, CSS, JavaScript
+,Postman, Git/GitHub, Docker,Object-Oriented Programming (OOP),SOLID Principles & Design Patterns.
 
 - 📫 How to reach me **simranduggal75@gmail.com**
 
