@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simran Duggal</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simranduggal75&label=Profile%20views&color=0e75b6&style=flat" alt="simranduggal75" /> </p>
 
-- 🔭 I’m currently working on **Python,Machine Learning,full stack**
+- 🔭 I’m currently working on **Python,Machine Learning,AI,LLMs**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning (Scikit-learn, Pandas, NumPy, Flask),Java, Spring Boot, JPA,RESTful APIs & Microservices ,API Development & Integration,React.js, Next.js, HTML, CSS, JavaScript
 ,Postman, Git/GitHub, Docker,Object-Oriented Programming (OOP),SOLID Principles & Design Patterns.
