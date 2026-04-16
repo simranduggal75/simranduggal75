@@ -3,6 +3,8 @@
 # 💫 About Me:
 👩‍💻 I’m currently building AI/ML and Python Backend projects  <br>🤝 I’m looking to collaborate on AI-powered products and scalable backend systems  <br>💡 I’m looking for help with advanced ML engineering and deployment strategies  <br>🌱 I’m currently learning Deep Learning, LLM Applications, and Cloud Deployment  <br>💬 Ask me about Python, FastAPI, Flask, REST APIs, Machine Learning, and NLP  <br>⚡ Fun fact: I enjoy turning real-world problems into intelligent software solutions
 
+---
+[![](https://komarev.com/ghpvc/?username=simranduggal75)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/simrankishorduggal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@simranduggal75) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simranduggal75@gmail.com) 
@@ -20,7 +22,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=simranduggal75&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=simranduggal75)](https://visitcount.itsvg.in)
+
 
 
