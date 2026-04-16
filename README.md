@@ -20,8 +20,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=simranduggal75&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-## [![](https://komarev.com/ghpvc/?username=simranduggal75)](https://visitcount.itsvg.in)
+## Profile Views
+[![](https://komarev.com/ghpvc/?username=simranduggal75)](https://visitcount.itsvg.in)
 
 
 
