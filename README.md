@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Simran Duggal</h1>
 # 💫 About Me:
 👩‍💻 I’m currently building AI/ML and Python Backend projects  <br>🤝 I’m looking to collaborate on AI-powered products and scalable backend systems  <br>💡 I’m looking for help with advanced ML engineering and deployment strategies  <br>🌱 I’m currently learning Deep Learning, LLM Applications, and Cloud Deployment  <br>💬 Ask me about Python, FastAPI, Flask, REST APIs, Machine Learning, and NLP  <br>⚡ Fun fact: I enjoy turning real-world problems into intelligent software solutions
 
@@ -13,10 +14,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=simranduggal75&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=simranduggal75&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=simranduggal75&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=simranduggal75&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=simranduggal75&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=simranduggal75&icon=0&color=0)](https://visitcount.itsvg.in)
