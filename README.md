@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Duggal</h1>
+
 # 💫 About Me:
 👩‍💻 I’m currently building AI/ML and Python Backend projects  <br>🤝 I’m looking to collaborate on AI-powered products and scalable backend systems  <br>💡 I’m looking for help with advanced ML engineering and deployment strategies  <br>🌱 I’m currently learning Deep Learning, LLM Applications, and Cloud Deployment  <br>💬 Ask me about Python, FastAPI, Flask, REST APIs, Machine Learning, and NLP  <br>⚡ Fun fact: I enjoy turning real-world problems into intelligent software solutions
 
